@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# Eyüpoğlu & Işıkgör Hukuk Bürosu Mobil Uygulaması
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe8bb5cc-37bb-4a79-817d-4c72280911d8" 
+  alt="Eyüpoğlu Işıkgör Hukuk Bürosu Yeni Logo" width="200"/>
+</p>
 
-## Get started
 
-1. Install dependencies
+## 📱 Proje Hakkında
 
-   ```bash
-   npm install
-   ```
+Eyüpoğlu & Işıkgör Hukuk Bürosu için geliştirilen bu mobil uygulama, müvekkiller ve potansiyel müşteriler için kapsamlı bir dijital platform sunmaktadır.  
+Uygulama **React Native** ve **Expo** kullanılarak geliştirilmiş olup, hukuki hizmetlere hızlı ve kolay erişim sağlamayı amaçlamaktadır.
 
-2. Start the app
+## 🚀 Özellikler
 
-   ```bash
-    npx expo start
-   ```
+✅ **📅 Online Randevu Sistemi**  
+✅ **💼 Hukuki Alanlar Hakkında Detaylı Bilgi**  
+   - İcra ve İflas Hukuku  
+   - Ticaret ve Şirketler Hukuku  
+   - Aile Hukuku  
+   - İş Hukuku  
+   - Gayrimenkul Hukuku  
+   - Ceza Hukuku  
+✅ **📄 Döküman Talep Sistemi**  
+✅ **💬 AI Destekli Hukuki Ön Danışmanlık**  
+✅ **📱 Kolay İletişim Araçları** (Telefon, WhatsApp, E-posta)  
+✅ **🗺️ Ofis Konumu ve Yol Tarifi**  
 
-In the output, you'll find options to open the app in a
+## 🛠️ Kullanılan Teknolojiler
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Teknoloji | Açıklama |
+|-----------|----------|
+| **React Native** | Mobil uygulama geliştirme |
+| **Expo** | Hızlı ve kolay geliştirme ortamı |
+| **React Navigation** | Sayfa yönlendirmeleri |
+| **Vector Icons** | Özel ikonlar |
+| **Async Storage** | Lokal veri saklama |
+| **React Native Maps** | Harita ve konum hizmetleri |
+| **TypeScript** | Güçlü tip desteği |
+| **Jest** | Test framework |
+| **ESLint & Prettier** | Kod kalitesi ve formatlama |
+## 📸 Uygulamadan Görüntüler
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2312bb00-f54a-4163-9705-366b92dc44f7" alt="Bașlıksız" width="250"/>
+  <img src="https://github.com/user-attachments/assets/25eb5d7c-b0fa-4a13-b1bf-aff05a8dcff0" alt="Bașlıksız-1" width="250"/>
+</p>
 
-## Get a fresh project
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6bdc5640-a6e8-46c3-ab32-421bf47232ae" alt="Bașlıksız" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b648bc0f-c2b9-4e75-8f80-104e032b3a3d" alt="Bașlıksız-1" width="250"/>
+</p>
 
-When you're ready, run:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b94cb99-b4e5-4a01-b9c8-19ffafbd37c2" alt="Bașlıksız" width="250"/>
+  <img src="https://github.com/user-attachments/assets/468894a6-e3f6-4e4b-8b4e-2f68d64155b2" alt="Bașlıksız-1" width="250"/>
+</p>
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
